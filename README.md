@@ -4,6 +4,17 @@ SkyMetrics is a real-time weather monitoring system that fetches weather data fr
 
 
 
+
+![WhatsApp Image 2024-10-17 at 22 03 45_82e61d2a](https://github.com/user-attachments/assets/985a975b-e171-4366-924c-a97cc0a5c805)
+
+
+
+
+
+
+
+
+
 # Project Overview
 ## Key Features:
 - **Real-time Weather Data**: Fetches real-time weather data for major cities using the OpenWeatherMap API.
